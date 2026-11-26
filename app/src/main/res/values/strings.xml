@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RS AI</string>
+    <string name="accessibility_desc">RS AI ko screen read karne aur WhatsApp, Instagram, YouTube control karne ki permission deta hai.</string>
+</resources>
