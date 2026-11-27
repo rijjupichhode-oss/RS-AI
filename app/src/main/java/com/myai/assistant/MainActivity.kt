@@ -1,5 +1,5 @@
 package com.myai.assistant
-
+import com.myai.assistant.R
 import android.Manifest
 import android.content.Intent
 import android.content.pm.PackageManager
