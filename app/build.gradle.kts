@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.smartstudy"
+    namespace = "com.myai.assistant"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.smartstudy"
+        applicationId = "com.myai.assistant"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
