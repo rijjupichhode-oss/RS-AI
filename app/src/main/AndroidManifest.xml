@@ -16,7 +16,7 @@
         android:allowBackup="true"
         android:label="RS AI"
         android:supportsRtl="true"
-        android:theme="@style/Theme.RSAI"
+        android:theme="@style/Theme.RSAI">
 
         <activity
             android:name=".MainActivity"
